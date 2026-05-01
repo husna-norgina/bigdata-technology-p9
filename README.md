@@ -187,7 +187,7 @@ Menampilkan proses penyimpanan data ke folder output dan status berhasil (**SEMU
 
 # 📄 Laporan Praktikum 9
 
-📎 *(Tambahkan file PDF laporan jika sudah ada di folder evidence)*
+📎 [230104040056_Husna Norgina_TBG_P9.pdf](evidence/230104040056_Husna%20Norgina_TBG_P9.pdf)
 
 ---
 
